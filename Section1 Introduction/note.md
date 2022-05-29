@@ -38,3 +38,16 @@ Có 3 thành phần vận hành scrum
 - Kinh doanh phải làm việc với dev hàng ngày suốt cả project
 - Cung cấp môi trường ổn hỗ trợ dev khi cần và tin tưởng dev có thể hoàn thành công việc
 - 
+
+
+Có 3 cái chính trong tầm nhìn của scrum
+- Inspect
+- Adaptation
+- Transparency
+
+5 giá trị
+- commitment: one success all success, one fail all fail
+- courage: sự dũng cảm đối đầu với khó khăn
+- focus: tập trung vào mục tiêu 
+- openess: cởi mở sẵn sàng thay đổi sẵn sàng giúp đỡ nhau 
+- respect: tôn trọng những người trong team 
