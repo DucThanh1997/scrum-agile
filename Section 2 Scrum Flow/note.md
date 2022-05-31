@@ -1,0 +1,12 @@
+## Các định nghĩa 
+- Product backlog: Các ý tưởng hoặc vấn đề đang tồn đọng để cho sản phẩm được tốt hơn sẽ được để vào trong đây
+- Sprint backlog: Nơi chứa các task cần thực hiện cho sprint
+- Increment: Kết quả công việc của 1 sprint (có thể là 1 tính năng, có thể là 1 giải pháp)
+- Product Owner: Quản lý product backlog
+- Developer: Người thực hiện 1 ý tưởng thành sản phẩm thực thụ
+- Scrum master: có mặt ở mọi nơi để support team hoàn thành công việc
+- Sprint: Là khoảng thời gian để hoàn thành 1 công việc trong sprint backlog thường kéo dài từ 15 ngày đến 1 tháng
+- Sprint planing: Một buổi để mô tả các task trong sprint backlog và kế hoạch thực hiện
+- Daily Scrum: một cuộc họp hàng ngày kéo dài khoảng 15p để developer nói về tình hình các task trong sprint
+- Sprint review: Là buổi mô tả cho đội kinh doanh và các role cao hơn về những tính năng mới đã hoàn thành trong sprint vừa rồi và cách sử dụng chúng cũng như ý nghĩa của chúng, từ buổi này sẽ define ra các việc cần làm tiếp ở sprint sau
+- Sprint Retro: là buổi họp giữa các developer để nói về sprint vừa rồi, buổi họp nói về cách thực hiện các task, các vấn đề họ gặp phải và các vấn đề còn tồn đọng
